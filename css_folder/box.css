@@ -1,0 +1,23 @@
+#top{
+    background-color: lightpink;
+    border: 3px solid blueviolet;
+    width: 40%;
+   /* margin-left: 35%;
+   padding-left: 5%;*/
+   position: relative;
+   left: 20%;
+   bottom: 10%;
+}
+
+#bottom{
+    background-color: rgb(149, 211, 247);
+    border: 3px solid blueviolet;
+    width: 40%;
+    margin-top: 30%;
+    margin-left: 35%;
+    text-align: center;
+}
+h3{
+    
+    font-family: 'Dancing Script', cursive;
+}

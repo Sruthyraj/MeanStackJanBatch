@@ -1,0 +1,16 @@
+div.gallary{
+margin: 1cm;
+border: 2px solid black;
+float: left;
+
+}
+div.gallary:hover{
+
+    border: 5px dotted red;
+}
+div.desc{
+
+    padding:20px;
+    text-align: center;
+
+}

@@ -1,0 +1,27 @@
+header{
+    width: 100%;
+    height: 50px;
+    color:blue;
+    background-color: skyblue;
+}
+
+div{
+    width: 25%;
+    background-color: #e80e20;
+}
+
+#mi{
+
+    border: 2px solid black;
+    background-color: #190ee8;
+    float: left;
+}
+#he{
+    text-decoration: underline;
+    text-align:top;
+    color: white;
+}
+.cls{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
